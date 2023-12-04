@@ -1,0 +1,14 @@
+{
+  "name": "mysemiridiculousportfolio",
+  "version": "1.0.0",
+  "description": "A long-term project to build my portfolio website that reflects my journey starting right from my very first computer science class in school.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
